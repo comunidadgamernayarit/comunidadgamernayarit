@@ -48,8 +48,8 @@ header {
 
 }
 
-.link-menu: hover{
-color: black;
+.link-menu : hover{
+background-color: black;
 }
 
 
@@ -90,7 +90,7 @@ footer{
   padding-left: 10px;
   padding-top: 10px;
   pading-bottom: 8px;
- 
+
 width:30%;
 }
 
@@ -98,9 +98,11 @@ width:30%;
 
 }
 p{
-  
+
 }
-.imagenes{ 
+.imagenes{
+  display: inline-block;
+  overflow: hiden;
   margin: 15px;
   padding: 10px;
 width:60%;}
