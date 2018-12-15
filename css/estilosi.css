@@ -45,11 +45,13 @@ header {
   font-weight: 700;
   color: white;
   line-height: 64px;
+  background-color: black;
 
 }
 
-.link-menu : hover{
-background-color: black;
+.link-menu:hover{
+background-color: white;
+  color: black;
 }
 
 
